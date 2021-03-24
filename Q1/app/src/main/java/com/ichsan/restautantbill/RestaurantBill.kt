@@ -79,7 +79,7 @@ fun textLayout(left: String, right: String, width: Int, blank_char: Char) : Stri
     var countBlank : Int
     if (countLeft>width-15) {
         val textLeftSplit = left.split("")
-        for (a in 0..14) {
+        for (a in 0 until 14) {
             textLeft +=textLeftSplit[a]
         }
         countBlank = 30 - textLeft.length
