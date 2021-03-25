@@ -1,4 +1,11 @@
 # SimpleApp Calender
+Pertama Dependesi :
+
+```implementation 'de.hdodenhof:circleimageview:3.1.0'```
+
+```implementation 'com.michalsvec:single-row-calednar:1.0.0'```
+
+untuk ```implementation 'com.michalsvec:single-row-calednar:1.0.0'``` minimal Sdk Version 21
 
 ## FragmentTask
 ![WhatsApp Image 2021-03-25 at 09 45 01 (2)](https://user-images.githubusercontent.com/42132876/112413589-0c1d9780-8d53-11eb-80a6-794f4408b052.jpeg)
