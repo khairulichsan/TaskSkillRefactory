@@ -16,7 +16,7 @@ fun main() {
     )
 
     print("Masukan nomor pilihan pencarian : ")
-    val input = readLine()?.toInt()
+    var input = readLine()?.toInt()
     val gson = Gson()
 
     val listType = object : TypeToken<List<Data>>() {}.type
