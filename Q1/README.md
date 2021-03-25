@@ -14,7 +14,7 @@ program sederhana yang menampilkan output Bill.
   ## Contoh Input dan Output
   ![output](https://user-images.githubusercontent.com/42132876/112406488-da063880-8d46-11eb-8865-e4e56b9ecd8c.png)
   
-   ## Note
+   ## Ulasan
    Bagian paling atas berisi nama restoran di berikan aligncenter agar posisi fokus ke tengah
    
    ![center](https://user-images.githubusercontent.com/42132876/112419892-ca92e980-8d5e-11eb-973a-d6cef6e0f908.png)
