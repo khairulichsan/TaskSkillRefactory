@@ -25,5 +25,5 @@ program sederhana yang menampilkan output Bill.
    ![30lenght](https://user-images.githubusercontent.com/42132876/112420005-0168ff80-8d5f-11eb-8e1e-c5f847c6761c.png)
    
    untuk data yang diinput seperti menu dan harga akan masuk ke arrayof ```val menu : ArrayList<String> = arrayListOf()``` dan
-    ```val price : ArrayList<Int> = arrayListOf()``` lalu akan masuk ke dalam perulangan. Mereka akan di tampilkan dan di jumlahkan kedalam variabel total, serta juga menampilkan isi dari variabel total
+    ```val price : ArrayList<Int> = arrayListOf()``` lalu akan masuk ke dalam perulangan. Mereka akan di tampilkan menurut index dan di jumlahkan kedalam variabel total, serta juga menampilkan isi dari variabel total
     ![total](https://user-images.githubusercontent.com/42132876/112421116-10e94800-8d61-11eb-93e1-2951df47edac.png)
